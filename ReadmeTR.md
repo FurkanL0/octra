@@ -20,5 +20,8 @@ wget https://github.com/octra-labs/wallet-gen/releases/download/v4/wallet-genera
 tar -xzf wallet-generator-linux-x64.tar.gz
 ```
 ```bash
+chmod +x wallet-generator
+```
+```bash
 ./wallet-generator
 ```
