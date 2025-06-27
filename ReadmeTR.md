@@ -19,9 +19,24 @@ wget https://github.com/octra-labs/wallet-gen/releases/download/v4/wallet-genera
 ```bash
 tar -xzf wallet-generator-linux-x64.tar.gz
 ```
+
 ```bash
 chmod +x wallet-generator
 ```
 ```bash
+screen -S octra
+```
+```bash
 ./wallet-generator
 ```
+
+![image](https://github.com/user-attachments/assets/115f5773-e2f2-4b05-9ee2-21b0fadc571e)
+
+## Panele Giriş : 
+
+- sunucu ip adresiniz :8888
+- Örnek : 1.1.1.1:8888
+
+![image](https://github.com/user-attachments/assets/3c337032-40db-4371-a41f-55b06848ff55)
+
+
