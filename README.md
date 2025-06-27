@@ -75,3 +75,8 @@ cat keyfile.txt
 ![image](https://github.com/user-attachments/assets/83b41d6b-49ae-43b1-b7fb-3eb6be61fc67)
 
 - If wallet generated and everything okey you can close with CTRL C on server. 
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
