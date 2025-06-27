@@ -39,4 +39,11 @@ screen -S octra
 
 ![image](https://github.com/user-attachments/assets/3c337032-40db-4371-a41f-55b06848ff55)
 
+#### Generate Wallet'a Basın : 
+
+![image](https://github.com/user-attachments/assets/490ec720-f4ed-43eb-8f32-f7f8c5f89161)
+
+- Size Verdiği Bilgileri Tümüyle Kaydedin : 
+
+![image](https://github.com/user-attachments/assets/fe14c60d-8119-418a-a64b-5e7580ee8c71)
 
