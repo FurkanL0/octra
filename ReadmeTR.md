@@ -33,7 +33,7 @@ screen -S octra
 ![image](https://github.com/user-attachments/assets/115f5773-e2f2-4b05-9ee2-21b0fadc571e)
 
 ## Panele Giriş : 
-
+- Herhangi bir tarayıcından girebilirsiniz.
 - sunucu ip adresiniz :8888
 - Örnek : 1.1.1.1:8888
 
@@ -54,3 +54,19 @@ cat dosyaismi.txt
 ```
 
 ![image](https://github.com/user-attachments/assets/c3c0b274-c6bb-4d94-98b0-4040b9801016)
+
+
+## Faucet : 
+
+- Link : https://faucet.octra.network/
+- Validatör değiliz kutuyu işaretlemeyin.
+
+![image](https://github.com/user-attachments/assets/555cb20c-800e-484c-9b68-a99ff9d0b9fe)
+
+![image](https://github.com/user-attachments/assets/bf0cf164-5d87-4fa0-b78d-3a2158ed614f)
+
+- Explorer Linkinden Doğrulama Yapın Confirmed Olsun : 
+
+![image](https://github.com/user-attachments/assets/83b41d6b-49ae-43b1-b7fb-3eb6be61fc67)
+
+- İşiniz bitince başkaları port'tan birşeyler denemesin diye CTRL + C ile durdurabilirsiniz.
