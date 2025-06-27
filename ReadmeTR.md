@@ -47,3 +47,10 @@ screen -S octra
 
 ![image](https://github.com/user-attachments/assets/fe14c60d-8119-418a-a64b-5e7580ee8c71)
 
+- Ayrıca Size Verdiği Dosya İsmi İlede bilgileri alabilirsiniz : 
+
+```bash
+cat dosyaismi.txt
+```
+
+![image](https://github.com/user-attachments/assets/c3c0b274-c6bb-4d94-98b0-4040b9801016)
