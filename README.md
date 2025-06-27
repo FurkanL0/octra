@@ -74,4 +74,4 @@ cat keyfile.txt
 
 ![image](https://github.com/user-attachments/assets/83b41d6b-49ae-43b1-b7fb-3eb6be61fc67)
 
-- İşiniz bitince başkaları port'tan birşeyler denemesin diye CTRL + C ile durdurabilirsiniz.
+- If wallet generated and everything okey you can close with CTRL C on server. 
