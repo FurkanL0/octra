@@ -38,3 +38,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 cp wallet.json.example wallet.json
 ```
+
+#### Dosya Düzenleme ;
+
+```bash
+nano wallet.json
+```
+
+```bash
+{
+  "priv": "cüzdanprivatekeyiniburayayaz",
+  "addr": "octilebaslayancuzdanadresiniz",
+  "rpc": "https://octra.network"
+}
+```
