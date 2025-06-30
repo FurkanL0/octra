@@ -17,4 +17,24 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 sudo apt update && sudo apt install -y python3 python3-venv python3-pip git yarn && curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - && echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list && sudo apt update && sudo apt install -y yarn
 ```
 
+## Screen Nolur Nolmaz ;
+
+```bash
+screen -S octragorev2
+```
+
 ## 4. Dosyaları Çekelim ; 
+
+
+```bash
+git clone https://github.com/octra-labs/octra_pre_client.git
+cd octra_pre_client
+```
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+```bash
+pip install -r requirements.txt
+cp wallet.json.example wallet.json
+```
