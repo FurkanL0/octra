@@ -52,3 +52,7 @@ nano wallet.json
   "rpc": "https://octra.network"
 }
 ```
+## Başlatalım : 
+```bash
+./run.sh
+```
