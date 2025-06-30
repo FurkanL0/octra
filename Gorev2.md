@@ -45,6 +45,9 @@ cp wallet.json.example wallet.json
 nano wallet.json
 ```
 
+- Private Key B64 olacak.
+
+
 ```bash
 {
   "priv": "cüzdanprivatekeyiniburayayaz",
@@ -52,6 +55,9 @@ nano wallet.json
   "rpc": "https://octra.network"
 }
 ```
+
+![image](https://github.com/user-attachments/assets/d8331cf8-8587-4463-b171-3a79b3451bb6)
+
 ## Başlatalım : 
 ```bash
 ./run.sh
