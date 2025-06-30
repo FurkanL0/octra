@@ -45,7 +45,10 @@ cp wallet.json.example wallet.json
 nano wallet.json
 ```
 
-- Private Key B64 olacak.
+![image](https://github.com/user-attachments/assets/8b31183c-1bb1-4038-bda5-1a4eb36f063d)
+
+
+- Private Key B64 olacak. Cüzdan oluştururken kaydettiğimiz bilgilerde yazıyor.
 
 
 ```bash
@@ -56,9 +59,11 @@ nano wallet.json
 }
 ```
 
-![image](https://github.com/user-attachments/assets/d8331cf8-8587-4463-b171-3a79b3451bb6)
+- CTRL X - CTRL Y - Enter Kayıt edecek.
 
 ## Başlatalım : 
 ```bash
 ./run.sh
 ```
+
+![image](https://github.com/user-attachments/assets/d8331cf8-8587-4463-b171-3a79b3451bb6)
