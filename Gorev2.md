@@ -67,3 +67,25 @@ nano wallet.json
 ```
 
 ![image](https://github.com/user-attachments/assets/d8331cf8-8587-4463-b171-3a79b3451bb6)
+
+
+## Token Gönderme : 
+
+![image](https://github.com/user-attachments/assets/662833be-3130-4ca6-b975-5a82f68752ec)
+
+- 1 Yazıp Enterleyin.
+- Göndereceğiniz adresi yazın.
+- Bana Gönderebilirsiniz : oct4Nngm5EW6NFPViHcMo8FeDziyMnqWQUpgf6eBoxHe15w
+
+![image](https://github.com/user-attachments/assets/7022ab5e-f035-4b61-9b40-b0087054f98a)
+
+- Miktaryı ayarlayın ; 
+
+![image](https://github.com/user-attachments/assets/23e3f3e0-059d-4c4f-a8bc-2a1e9a724fa3)
+
+- Y yazıp enterleyin - Enter'a basıp ana panele geri dönebilirsiniz. 
+
+![image](https://github.com/user-attachments/assets/e05bba4c-06f2-4383-b0b0-c967420f8e6d)
+
+
+- Screenden çıkmak içni CTRL A ve D yapabilirsiniz.
