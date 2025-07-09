@@ -79,3 +79,10 @@ nano wallet.json
 
 #### Private Transfer ; 
 
+- 6'yı seçiyoruz.
+
+![image](https://github.com/user-attachments/assets/615af0c0-2d44-40a0-97f2-0251f530b3fe)
+
+- Göndereceğimiz kişinin adresini yazıyoruz - hata almaması için karşı tarafın normal OCT testnette bir tx göndermesi gerekiyor - boş hesaplara gitmiyor.
+
+![image](https://github.com/user-attachments/assets/176021da-9ad5-40e1-aee6-01faa3e54d42)
