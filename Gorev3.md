@@ -1,47 +1,10 @@
 
 ![image](https://github.com/user-attachments/assets/0d8ec782-edf6-4ce2-a75b-4ee08589afe7)
 
-## 1. Server Güncelleme : 
+## 1. Screene girelim : 
 
 ```bash
-sudo apt update -y && sudo apt upgrade -y
-```
-## 2. Paketleri İndirelim:
-
-```bash
-sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen file nano btop unzip lz4 -y
-```
-## 3. Python / Yarn / Git : 
-
-```bash
-sudo apt update && sudo apt install -y python3 python3-venv python3-pip git yarn && curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - && echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list && sudo apt update && sudo apt install -y yarn
-```
-
-## Screen Nolur Nolmaz ;
-
-```bash
-screen -S octragorev3
-```
-
-## 4. Dosyaları Çekelim ; 
-
-```bash
-git clone https://github.com/octra-labs/octra_pre_client.git
-cd octra_pre_client
-```
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-```bash
-pip install -r requirements.txt
-cp wallet.json.example wallet.json
-```
-
-#### Dosya Düzenleme ;
-
-```bash
-nano wallet.json
+screene -r octragorev2
 ```
 
 ![image](https://github.com/user-attachments/assets/8b31183c-1bb1-4038-bda5-1a4eb36f063d)
@@ -86,3 +49,23 @@ nano wallet.json
 - Göndereceğimiz kişinin adresini yazıyoruz - hata almaması için karşı tarafın normal OCT testnette bir tx göndermesi gerekiyor - boş hesaplara gitmiyor.
 
 ![image](https://github.com/user-attachments/assets/176021da-9ad5-40e1-aee6-01faa3e54d42)
+
+#### Private Transfer'i Claimleme - Karşı Taraf - Yada Size Gelen Transfer ; 
+
+- 7'yi seçiyoruz.
+
+![image](https://github.com/user-attachments/assets/e9f18189-c2a4-4ed3-b741-af1e3994b546)
+
+- İşlemin numarasını yazıp enterleyin , claimleyin.
+
+![image](https://github.com/user-attachments/assets/cb3a3506-4d24-469f-aafb-78730589adab)
+
+#### DeCrypt ; 
+
+- 5 'i seçiyoruz.
+
+![image](https://github.com/user-attachments/assets/339c7639-d1dd-413a-aec5-88d6da71843d)
+
+- Decrypt edeceğimiz miktarı yazıp onaylıyoruz.
+
+![image](https://github.com/user-attachments/assets/990181e1-6f92-4c02-ba3d-59734a164eb5)
