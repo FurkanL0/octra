@@ -1,11 +1,79 @@
 
 ![image](https://github.com/user-attachments/assets/0d8ec782-edf6-4ce2-a75b-4ee08589afe7)
 
-## 1. Screene girelim : 
+## 1. Temiz Olması Açısından Sıfır Kurulum : 
 
 ```bash
 screene -r octragorev2
 ```
+
+- CTRL C ile durdurun.
+
+- Exit Komutu ile screene kapatın
+```bash
+exit
+```
+
+- Eski Dosyaları Uçuralım ; 
+
+```bash
+cd
+```
+```bash
+rm -rf octra_pre_client
+```
+
+## Screen Nolur Nolmaz ;
+
+```bash
+screen -S octragorev3
+```
+
+## 4. Dosyaları Çekelim ; 
+
+
+```bash
+git clone https://github.com/octra-labs/octra_pre_client.git
+cd octra_pre_client
+```
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+```bash
+pip install -r requirements.txt
+cp wallet.json.example wallet.json
+```
+
+#### Dosya Düzenleme ;
+
+```bash
+nano wallet.json
+```
+
+![image](https://github.com/user-attachments/assets/8b31183c-1bb1-4038-bda5-1a4eb36f063d)
+
+
+- Private Key B64 olacak. Cüzdan oluştururken kaydettiğimiz bilgilerde yazıyor.
+
+
+```bash
+{
+  "priv": "cüzdanprivatekeyiniburayayaz",
+  "addr": "octilebaslayancuzdanadresiniz",
+  "rpc": "https://octra.network"
+}
+```
+
+- CTRL X - CTRL Y - Enter Kayıt edecek.
+
+## Başlatalım : 
+```bash
+./run.sh
+```
+
+
+## Cüzdan Bilgilerini
 
 ![image](https://github.com/user-attachments/assets/8b31183c-1bb1-4038-bda5-1a4eb36f063d)
 
