@@ -72,30 +72,6 @@ nano wallet.json
 ./run.sh
 ```
 
-
-## Cüzdan Bilgilerini
-
-![image](https://github.com/user-attachments/assets/8b31183c-1bb1-4038-bda5-1a4eb36f063d)
-
-
-- Private Key B64 olacak. Cüzdan oluştururken kaydettiğimiz bilgilerde yazıyor.
-
-
-```bash
-{
-  "priv": "cüzdanprivatekeyiniburayayaz",
-  "addr": "octilebaslayancuzdanadresiniz",
-  "rpc": "https://octra.network"
-}
-```
-
-- CTRL X - CTRL Y - Enter Kayıt edecek.
-
-## Başlatalım : 
-```bash
-./run.sh
-```
-
 ## Gorevler : 
 
 #### Encrypt ; 
