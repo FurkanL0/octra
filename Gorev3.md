@@ -9,7 +9,7 @@ screene -r octragorev2
 
 - CTRL C ile durdurun.
 
-- Exit Komutu ile screene kapatın
+- Exit Komutu ile screen'i kapatın
 ```bash
 exit
 ```
