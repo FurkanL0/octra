@@ -150,6 +150,7 @@ nano wallet.json
 - 4'ü seçiyoruz.
 
 <img src="https://github.com/user-attachments/assets/8920f291-664b-4e45-949b-7c37c7e11215" width="450px" alt="u">
+
 - İstediğimiz miktarı encrypt ediyoruz. Encrypt olması için tx'in geçmesi gerekiyor 2-3 dk bekletebilir.
 
 ![image](https://github.com/user-attachments/assets/43151f30-2013-48b5-ab94-d6342f6ab7c5)
