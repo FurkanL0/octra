@@ -82,7 +82,7 @@ cat dosyaismi.txt
 
 # Cüzdan TX İşlemleri ; 
 
-## 4. Dosyaları Çekelim ; 
+## Dosyaları Çekelim ; 
 
 
 ```bash
