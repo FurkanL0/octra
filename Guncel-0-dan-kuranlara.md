@@ -131,16 +131,16 @@ nano wallet.json
 - Göndereceğiniz adresi yazın.
 - Bana Gönderebilirsiniz : oct4Nngm5EW6NFPViHcMo8FeDziyMnqWQUpgf6eBoxHe15w
 
-![image](https://github.com/user-attachments/assets/7022ab5e-f035-4b61-9b40-b0087054f98a)
+<img width="242" height="236" alt="image" src="https://github.com/user-attachments/assets/8ea0e5ff-f8a4-4db4-8cea-8af5638e114d" />
+
 
 - Miktaryı ayarlayın ; 
 
-![image](https://github.com/user-attachments/assets/23e3f3e0-059d-4c4f-a8bc-2a1e9a724fa3)
+<img src="https://github.com/user-attachments/assets/23e3f3e0-059d-4c4f-a8bc-2a1e9a724fa3" width="450px" alt="u">
 
 - Y yazıp enterleyin - Enter'a basıp ana panele geri dönebilirsiniz. 
 
-![image](https://github.com/user-attachments/assets/e05bba4c-06f2-4383-b0b0-c967420f8e6d)
-
+<img src="https://github.com/user-attachments/assets/e05bba4c-06f2-4383-b0b0-c967420f8e6d" width="450px" alt="u">
 
 - Screenden çıkmak içni CTRL A ve D yapabilirsiniz.
  
@@ -149,8 +149,7 @@ nano wallet.json
 
 - 4'ü seçiyoruz.
 
-![image](https://github.com/user-attachments/assets/8920f291-664b-4e45-949b-7c37c7e11215)
-
+<img src="https://github.com/user-attachments/assets/8920f291-664b-4e45-949b-7c37c7e11215" width="450px" alt="u">
 - İstediğimiz miktarı encrypt ediyoruz. Encrypt olması için tx'in geçmesi gerekiyor 2-3 dk bekletebilir.
 
 ![image](https://github.com/user-attachments/assets/43151f30-2013-48b5-ab94-d6342f6ab7c5)
