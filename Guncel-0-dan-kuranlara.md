@@ -62,6 +62,8 @@ cat dosyaismi.txt
 
 <img src="https://github.com/user-attachments/assets/555cb20c-800e-484c-9b68-a99ff9d0b9fe" width="450px" alt="u">
 
+- 👇
+
 <img src="https://github.com/user-attachments/assets/bf0cf164-5d87-4fa0-b78d-3a2158ed614f" width="450px" alt="u">
 
 - Explorer Linkinden Doğrulama Yapın Confirmed Olsun : 
