@@ -12,6 +12,9 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 ```
 
 ## Tek Komut Kurulum - https://github.com/zunxbt'a Aittir.
+
+- Size direkt cüzdan bilgilerinizi vericek kaydedin.
+
 ```bash
 curl -sSL https://raw.githubusercontent.com/zunxbt/octra-wallet-cli/refs/heads/main/start.sh -o start.sh && chmod +x start.sh && ./start.sh
 ```
