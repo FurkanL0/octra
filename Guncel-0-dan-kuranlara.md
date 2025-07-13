@@ -53,17 +53,16 @@ screen -S octra
 cat dosyaismi.txt
 ```
 
-![image](https://github.com/user-attachments/assets/c3c0b274-c6bb-4d94-98b0-4040b9801016)
-
+<img src="https://github.com/user-attachments/assets/c3c0b274-c6bb-4d94-98b0-4040b9801016" width="450px" alt="u">
 
 ## Faucet : 
 
 - Link : https://faucet.octra.network/
 - Validatör değiliz kutuyu işaretlemeyin.
 
-![image](https://github.com/user-attachments/assets/555cb20c-800e-484c-9b68-a99ff9d0b9fe)
+<img src="https://github.com/user-attachments/assets/555cb20c-800e-484c-9b68-a99ff9d0b9fe" width="450px" alt="u">
 
-![image](https://github.com/user-attachments/assets/bf0cf164-5d87-4fa0-b78d-3a2158ed614f)
+<img src="https://github.com/user-attachments/assets/bf0cf164-5d87-4fa0-b78d-3a2158ed614f" width="450px" alt="u">
 
 - Explorer Linkinden Doğrulama Yapın Confirmed Olsun : 
 
