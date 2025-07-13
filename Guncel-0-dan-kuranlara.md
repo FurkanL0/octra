@@ -29,23 +29,22 @@ screen -S octra
 ```bash
 ./wallet-generator
 ```
-
-![image](https://github.com/user-attachments/assets/115f5773-e2f2-4b05-9ee2-21b0fadc571e)
+<img src="https://github.com/user-attachments/assets/115f5773-e2f2-4b05-9ee2-21b0fadc571e" width="450px" alt="u">
 
 ## Panele Giriş : 
 - Herhangi bir tarayıcından girebilirsiniz.
 - sunucu ip adresiniz :8888
 - Örnek : 1.1.1.1:8888
 
-![image](https://github.com/user-attachments/assets/3c337032-40db-4371-a41f-55b06848ff55)
+<img src="https://github.com/user-attachments/assets/3c337032-40db-4371-a41f-55b06848ff55" width="450px" alt="u">
 
 #### Generate Wallet'a Basın : 
 
-![image](https://github.com/user-attachments/assets/490ec720-f4ed-43eb-8f32-f7f8c5f89161)
+<img src="https://github.com/user-attachments/assets/490ec720-f4ed-43eb-8f32-f7f8c5f89161" width="450px" alt="u">
 
 - Size Verdiği Bilgileri Tümüyle Kaydedin : 
 
-![image](https://github.com/user-attachments/assets/fe14c60d-8119-418a-a64b-5e7580ee8c71)
+<img src="https://github.com/user-attachments/assets/fe14c60d-8119-418a-a64b-5e7580ee8c71" width="450px" alt="u">
 
 - Ayrıca Size Verdiği Dosya İsmi İlede bilgileri alabilirsiniz : 
 
