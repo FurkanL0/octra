@@ -67,7 +67,7 @@ cat dosyaismi.txt
 
 - Explorer Linkinden Doğrulama Yapın Confirmed Olsun : 
 
-<img src="https://github.com/user-attachments/assets/83b41d6b-49ae-43b1-b7fb-3eb6be61fc67" width="350px" alt="u">
+<img src="https://github.com/user-attachments/assets/83b41d6b-49ae-43b1-b7fb-3eb6be61fc67" width="450px" alt="u">
 
 - İşiniz bitince başkaları port'tan birşeyler denemesin diye CTRL + C ile durdurabilirsiniz.
 
