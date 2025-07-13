@@ -127,6 +127,24 @@ nano wallet.json
 
 ## Gorevler : 
 
+- 1 Yazıp Enterleyin.
+- Göndereceğiniz adresi yazın.
+- Bana Gönderebilirsiniz : oct4Nngm5EW6NFPViHcMo8FeDziyMnqWQUpgf6eBoxHe15w
+
+![image](https://github.com/user-attachments/assets/7022ab5e-f035-4b61-9b40-b0087054f98a)
+
+- Miktaryı ayarlayın ; 
+
+![image](https://github.com/user-attachments/assets/23e3f3e0-059d-4c4f-a8bc-2a1e9a724fa3)
+
+- Y yazıp enterleyin - Enter'a basıp ana panele geri dönebilirsiniz. 
+
+![image](https://github.com/user-attachments/assets/e05bba4c-06f2-4383-b0b0-c967420f8e6d)
+
+
+- Screenden çıkmak içni CTRL A ve D yapabilirsiniz.
+ 
+
 #### Encrypt ; 
 
 - 4'ü seçiyoruz.
