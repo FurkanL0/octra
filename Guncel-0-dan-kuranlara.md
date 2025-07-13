@@ -11,7 +11,7 @@ sudo apt update -y && sudo apt upgrade -y
 sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev tmux iptables curl nvme-cli git wget make jq libleveldb-dev build-essential pkg-config ncdu tar clang bsdmainutils lsb-release libssl-dev libreadline-dev libffi-dev jq gcc screen file nano btop unzip lz4 -y
 ```
 
-## Tek Komut Kurulum - https://github.com/zunxbt'a Aittir.
+## Tek Komut Cüzdan Kurulum - https://github.com/zunxbt'a Aittir.
 
 - Size direkt cüzdan bilgilerinizi vericek kaydedin.
 
@@ -19,7 +19,7 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 curl -sSL https://raw.githubusercontent.com/zunxbt/octra-wallet-cli/refs/heads/main/start.sh -o start.sh && chmod +x start.sh && ./start.sh
 ```
 
-## Normal Projenin Verdiğ Şekilde Kurulum ; 
+## Normal Projenin Verdiğ Şekilde Cüzdan Kurulum ; 
 
 ```bash
 wget https://github.com/octra-labs/wallet-gen/releases/download/v4/wallet-generator-linux-x64.tar.gz
