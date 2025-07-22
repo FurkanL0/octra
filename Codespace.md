@@ -10,7 +10,7 @@
 
 #### 2- Private Olsun - Readme.md Tik'i açık olsun ; 
 
-<img width="794" height="878" alt="image" src="https://github.com/user-attachments/assets/b0938a6d-3243-4bff-9e8c-7ddecca50f8c" />
+<img src="https://github.com/user-attachments/assets/b0938a6d-3243-4bff-9e8c-7ddecca50f8c" width="450px" alt="u">
 
 
 #### 3- CodeSpace ; 
