@@ -25,7 +25,7 @@
 
 
 - Artık Paneldesiniz ; 
-<img src="https://github.com/user-attachments/assets/4a61a1c9-21e4-4981-be85-22af2ae9d906" width="450px" alt="u">
+<img src="https://github.com/user-attachments/assets/4a61a1c9-21e4-4981-be85-22af2ae9d906" width="550px" alt="u">
 
 
 ## 1. Server Güncelleme : 
