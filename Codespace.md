@@ -177,3 +177,8 @@ nano wallet.json
 - Decrypt edeceğimiz miktarı yazıp onaylıyoruz.
 
 ![image](https://github.com/user-attachments/assets/990181e1-6f92-4c02-ba3d-59734a164eb5)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
