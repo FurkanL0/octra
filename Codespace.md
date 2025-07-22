@@ -47,6 +47,13 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 curl -sSL https://raw.githubusercontent.com/zunxbt/octra-wallet-cli/refs/heads/main/start.sh -o start.sh && chmod +x start.sh && ./start.sh
 ```
 
+<img width="1305" height="221" alt="image" src="https://github.com/user-attachments/assets/f2595888-3042-4496-b72a-390ee5b0fe7e" />
+
+- Enter.
+
+<img width="661" height="261" alt="image" src="https://github.com/user-attachments/assets/7f24318a-bbc5-4f59-a907-ed22286ee8a1" />
+
+- Cüzdan Bilgerini tümüyle kayıt edin.
 
 ## Faucet : 
 
