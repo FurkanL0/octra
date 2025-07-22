@@ -21,7 +21,8 @@
 
 #### 4 - Açtığınız Repo'yu Seçin - Diğerleri Aynı Kalabilir ; 
 
-<img width="813" height="536" alt="image" src="https://github.com/user-attachments/assets/1924ece8-8999-494f-a844-ce0fdb20bf18" />
+<img src="https://github.com/user-attachments/assets/1924ece8-8999-494f-a844-ce0fdb20bf18" width="450px" alt="u">
+
 
 - Artık Paneldesiniz ; 
 <img src="https://github.com/user-attachments/assets/4a61a1c9-21e4-4981-be85-22af2ae9d906" width="450px" alt="u">
