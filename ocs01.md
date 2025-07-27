@@ -64,3 +64,24 @@ nano wallet.json
 ```
 
 <img width="538" height="380" alt="image" src="https://github.com/user-attachments/assets/aa2bb395-6240-4e18-8a92-5191474fffce" />
+
+
+```bash
+1. greeting: Bir mesaj alma fonksiyonu.
+2. contract info: Sözleşmenin tanımını (açıklamasını) alma fonksiyonu.
+3. claim 1 token: Belirli bir adrese bir kez token (dijital para birimi) talep etme fonksiyonu.
+4. check token balance: Token bakiyesini kontrol etme fonksiyonu.
+5. dot product: İki vektörün noktasal çarpımını hesaplama fonksiyonu.
+6. vector magnitude: Bir vektörün büyüklüğünü (uzunluğunu) hesaplama fonksiyonu.
+7. power: Bir sayının üssünü hesaplama.
+8. factorial: Faktöriyel hesaplama.
+9. fibonacci number: Fibonacci serisinden bir sayı bulma.
+10. greatest common divisor: İki sayının en büyük ortak bölenini bulma.
+11. check if number is prime: Bir sayının asal olup olmadığını kontrol etme.
+12. 2x2 matrix determinant: 2x2 matrisin determinantını hesaplama.
+13. linear interpolation: Doğrusal enterpolasyon yapma.
+14. modular exponentiation: Modüler üs alma işlemi.
+0. exit: Programdan çıkma.
+```
+
+- Komuta bastıktan sonra Enter'e basmanız yeterli.
