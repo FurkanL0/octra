@@ -59,6 +59,8 @@ nano wallet.json
 }
 ```
 
+- Kaydetmek için CTRL'ye basılı tutup X sonra Y ardından Enter.
+
 ## Çalıştıralım ; 
 
 ```bash
