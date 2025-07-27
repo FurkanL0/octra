@@ -40,5 +40,18 @@ cargo build --release
 cp EI/exec_interface.json .
 ```
 
+## Cüzdanı İçeri Atalım ; 
+
+```bash
+nano wallet.json
+```
+
+```bash
+{
+  "priv": "cüzdanprivatekeyiniburayayaz",
+  "addr": "octilebaslayancuzdanadresiniz",
+  "rpc": "https://octra.network"
+}
+```
 <img width="497" height="147" alt="image" src="https://github.com/user-attachments/assets/1dc46574-f2f7-4c2e-af99-aa5512ff42cc" />
 
