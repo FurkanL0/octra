@@ -49,6 +49,8 @@ cp EI/exec_interface.json .
 nano wallet.json
 ```
 
+- Priv key B64 olan.
+
 ```bash
 {
   "priv": "cüzdanprivatekeyiniburayayaz",
