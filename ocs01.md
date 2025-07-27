@@ -92,7 +92,7 @@ nano wallet.json
 
 <img width="626" height="434" alt="Gw4_7lcWAAAZ34o" src="https://github.com/user-attachments/assets/b0710c41-7c92-4142-ac6e-721b0e4a45bb" />
 
-- 2 ; 
+- 3 ; 
 
 <img width="551" height="508" alt="image" src="https://github.com/user-attachments/assets/2ebfbf1f-d364-4b86-b93d-74ada0a06f87" />
 
