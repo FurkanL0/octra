@@ -32,6 +32,9 @@ cd ocs01-test
 cargo build --release
 ```
 
+<img width="599" height="184" alt="image" src="https://github.com/user-attachments/assets/1e8cf79a-b9ab-4f5a-a34e-81cf383ef2a6" />
+
+
 ## 5. Contratcı Kopyalama ; 
 ```bash
 cp EI/exec_interface.json .
