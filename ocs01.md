@@ -57,3 +57,10 @@ nano wallet.json
 }
 ```
 
+## Çalıştıralım ; 
+
+```bash
+./target/release/ocs01-test
+```
+
+<img width="538" height="380" alt="image" src="https://github.com/user-attachments/assets/aa2bb395-6240-4e18-8a92-5191474fffce" />
