@@ -107,3 +107,6 @@ Paneliniz açılacak.
 
 <img width="385" height="784" alt="image" src="https://github.com/user-attachments/assets/294ca279-969d-48fa-aa71-ee078e08263a" />
 
+- Claimed oldu ve cüzdana geçti.
+
+<img width="460" height="233" alt="image" src="https://github.com/user-attachments/assets/7577cdf8-5436-45a4-b6a5-78fe1d137a97" />
