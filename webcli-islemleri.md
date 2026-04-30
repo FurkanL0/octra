@@ -30,10 +30,18 @@ screen -S ngrok
 snap install ngrok
 ```
 
+<img width="572" height="45" alt="image" src="https://github.com/user-attachments/assets/708d14f8-c9c4-4dd0-a840-0a864ecd6aa7" />
+
+
+- Böyle oldu ise inmiş demektir Biraz sürebilir.
+
 <img width="1025" height="563" alt="image" src="https://github.com/user-attachments/assets/881d9d8f-a7fd-4835-90bc-6c17e3b34a1d" />
 
-- Kendinizdeki komutu kopyalayıp sunucuda yapıştırıp girin.
+- Siteden Kendinizdeki komutu kopyalayıp sunucuda yapıştırıp girin.
 
+<img width="829" height="79" alt="image" src="https://github.com/user-attachments/assets/f3754378-ffee-4f64-a371-012032a9036b" />
+
+- Böyle oldu ise başarılı tertemiz.
 
 ```bash
 ngrok http 8420
