@@ -24,6 +24,11 @@ screen -S ngrok
 - Çoğunuz diğer projeler ile aşina olmuşsunuzdur ama bilmiyorsanız sitesine gidip kayıt olup - mail doğrulamasını yapmalısınız.
 - Site: https://dashboard.ngrok.com
 
+- Linux olan sayfaya gelin: 
+
+<img width="1381" height="352" alt="image" src="https://github.com/user-attachments/assets/df7231fd-81fe-4861-82a2-71e5d2e9391d" />
+
+
 - Snap İle İndiriyoruz:
 
 ```bash
