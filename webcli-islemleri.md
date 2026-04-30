@@ -52,6 +52,8 @@ snap install ngrok
 ngrok http 8420
 ```
 
+- Bu komutu girdikten sonra port yönlendirme aktif olacak ve bize bir site linki vericek. Buradan sanki sunucuda o porta girmişiz gibi işlem yapabileceğiz.
+
 <img width="1012" height="419" alt="image" src="https://github.com/user-attachments/assets/a7efd0b5-aa7f-49e9-8ac3-c6034cc1e987" />
 
 - Buradaki linki kopyalayıp yada termius kullanıyorsanız üstüne tıklayıp kendi tarayıcınızda girin. 
