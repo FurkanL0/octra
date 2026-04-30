@@ -42,6 +42,8 @@ ngrok http 8420
 
 - CTRL'ye basılıp tutup sırasıyla A ve D yapıp screenden çıkın.
 
+## Webcli indirelim
+
 ```bash
 sudo apt install g++ libssl-dev make
 ```
@@ -49,7 +51,6 @@ sudo apt install g++ libssl-dev make
 ```bash
 git clone https://github.com/octra-labs/webcli.git
 ```
-
 
 ```bash
 cd webcli
