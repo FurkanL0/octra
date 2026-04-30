@@ -124,6 +124,8 @@ chmod +x setup.sh
 - Tam miktar max yapmayın hata verdi 434.050505 deydi düz 434 yaptım onay verdi.
 - Onay veriyoruz.
 
+- Sonrasına işleme alıyor, bittikten sonra ETH ağında clainleyin diyecek.
+
 <img width="590" height="696" alt="image" src="https://github.com/user-attachments/assets/6b36a2c4-e95a-4005-b033-bf982ae75976" />
 
 - Claim butonuna basıp ETH ağında claimliyoruz.
