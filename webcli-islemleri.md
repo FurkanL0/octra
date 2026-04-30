@@ -136,3 +136,18 @@ chmod +x setup.sh
 - Claimed oldu ve cüzdana geçti.
 
 <img width="460" height="233" alt="image" src="https://github.com/user-attachments/assets/7577cdf8-5436-45a4-b6a5-78fe1d137a97" />
+
+- İşiniz bitince CTRL C ile durdurabilirsiniz sunucudan.
+
+- Ngrok'ta durduralım kimse gelmesin.
+
+```bash
+screen -r ngrok
+```
+- CTRL C yapın kapansın.
+
+```bash
+exit
+```
+
+- Komutu ilede screeni kapatabilirsiniz.
