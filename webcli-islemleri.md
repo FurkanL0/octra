@@ -70,3 +70,15 @@ chmod +x setup.sh
 
 - İmport'a basın.
 
+<img width="549" height="400" alt="image" src="https://github.com/user-attachments/assets/c81fa32a-4635-45a8-b6fb-44bb549554e0" />
+
+- Cüzdan kelimeleri yada privatekeyinizi girin. 
+
+<img width="673" height="518" alt="image" src="https://github.com/user-attachments/assets/4c3dac8c-1d62-4480-bdca-92150a8e31ca" />
+
+
+- 6 Hane dijital pin oluşturun. Set pin'e basın.
+
+<img width="1012" height="471" alt="image" src="https://github.com/user-attachments/assets/88c6768f-a1d7-43d2-89b3-8c958249deb6" />
+
+Paneliniz açılacak.
