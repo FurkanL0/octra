@@ -82,3 +82,25 @@ chmod +x setup.sh
 <img width="1012" height="471" alt="image" src="https://github.com/user-attachments/assets/88c6768f-a1d7-43d2-89b3-8c958249deb6" />
 
 Paneliniz açılacak.
+
+<img width="1180" height="425" alt="image" src="https://github.com/user-attachments/assets/7a50eeb9-1f34-4ede-b9af-01493cfbd197" />
+
+- Sağ üstten apps'e basın.
+- Açılan sayfada bridgeye basın sizi yönlendirecek.
+
+<img width="544" height="214" alt="image" src="https://github.com/user-attachments/assets/bb9d0a36-092e-4bac-be8c-c16325d4789e" />
+
+- Metamask bağlıyoruz. 
+- oct -> woct olan sayfada olacağız.
+
+<img width="572" height="811" alt="image" src="https://github.com/user-attachments/assets/ae43fe97-b0d9-442c-9dad-7706ea6bc176" />
+
+<img width="401" height="374" alt="image" src="https://github.com/user-attachments/assets/06bb9d75-a47f-472d-8fbe-4d8be2d28964" />
+
+- Tam miktar max yapmayın hata verdi 434.050505 deydi düz 434 yaptım onay verdi.
+- Onay veriyoruz.
+
+<img width="590" height="696" alt="image" src="https://github.com/user-attachments/assets/6b36a2c4-e95a-4005-b033-bf982ae75976" />
+
+- Claim butonuna basıp ETH ağında claimliyoruz.
+
