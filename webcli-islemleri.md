@@ -80,9 +80,15 @@ chmod +x setup.sh
 ```
 <img width="385" height="142" alt="image" src="https://github.com/user-attachments/assets/ca66220c-61ea-4559-8c77-93af61250227" />
 
+- Bitince bu yazıyı göreceksiniz:
+
+<img width="404" height="30" alt="image" src="https://github.com/user-attachments/assets/1cca57ab-850b-4150-9814-3a12d3af2e6f" />
+
+- Web açıldı demektir - ngrok ile aldığımız linkten giriş yapalım.
+
 ## Web'e Girelim:
 
-- Ngrok sayfasından gittiğiniz siteyi yenileyin - octra webcli sizi karşılayacak.
+- Ngrok sayfasından gittiğiniz siteyi yenileyin f5 atın - octra webcli sizi karşılayacak.
 
 <img width="1302" height="841" alt="image" src="https://github.com/user-attachments/assets/f80e994e-3085-4b3d-a6e9-53ffe01aac2a" />
 
