@@ -61,3 +61,12 @@ chmod +x setup.sh
 ./octra_wallet
 ```
 <img width="385" height="142" alt="image" src="https://github.com/user-attachments/assets/ca66220c-61ea-4559-8c77-93af61250227" />
+
+## Web'e Girelim:
+
+- Ngrok sayfasından gittiğiniz siteyi yenileyin - octra webcli sizi karşılayacak.
+
+<img width="1302" height="841" alt="image" src="https://github.com/user-attachments/assets/f80e994e-3085-4b3d-a6e9-53ffe01aac2a" />
+
+- İmport'a basın.
+
