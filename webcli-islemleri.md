@@ -104,3 +104,6 @@ Paneliniz açılacak.
 
 - Claim butonuna basıp ETH ağında claimliyoruz.
 
+
+<img width="385" height="784" alt="image" src="https://github.com/user-attachments/assets/294ca279-969d-48fa-aa71-ee078e08263a" />
+
