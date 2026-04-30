@@ -11,9 +11,9 @@ sudo apt install htop ca-certificates zlib1g-dev libncurses5-dev libgdbm-dev lib
 ```
 
 ## Screen Açalım:
-
+```bash
 screen -S ngrok
-
+```
 - Yep yeni bir temiz sayfa açıcak.
 
 ## Ngrok İndirelim
