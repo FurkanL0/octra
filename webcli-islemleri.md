@@ -29,7 +29,7 @@ screen -S ngrok
 <img width="1381" height="352" alt="image" src="https://github.com/user-attachments/assets/df7231fd-81fe-4861-82a2-71e5d2e9391d" />
 
 
-- Snap İle İndiriyoruz:
+- Sunucuya geçelim - Snap İle İndiriyoruz:
 
 ```bash
 snap install ngrok
