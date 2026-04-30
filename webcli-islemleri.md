@@ -1,3 +1,6 @@
+<img width="725" height="412" alt="image" src="https://github.com/user-attachments/assets/f6454b7b-0143-4ee9-b958-c80256cb262e" />
+
+
 
 ## Sunucu Güncelleme:
 
