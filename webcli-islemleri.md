@@ -105,7 +105,7 @@ chmod +x setup.sh
 
 <img width="1012" height="471" alt="image" src="https://github.com/user-attachments/assets/88c6768f-a1d7-43d2-89b3-8c958249deb6" />
 
-Paneliniz açılacak.
+- Paneliniz açılacak.
 
 <img width="1180" height="425" alt="image" src="https://github.com/user-attachments/assets/7a50eeb9-1f34-4ede-b9af-01493cfbd197" />
 
