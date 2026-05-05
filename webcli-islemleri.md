@@ -128,6 +128,7 @@ chmod +x setup.sh
 
 <img width="590" height="696" alt="image" src="https://github.com/user-attachments/assets/6b36a2c4-e95a-4005-b033-bf982ae75976" />
 
+## ÖNEMLİ UYARI: METAMASK VEYAHUT DİĞER WALLETLARI KULLANIYORSANIZ LÜTFEN ETH Ağında olduğunuzdan emin olun - diğer ağdayken tx'e onay verirseniz o ağda tx oluşturuyor ama token gelmiyor.
 - Claim butonuna basıp ETH ağında claimliyoruz.
 
 
